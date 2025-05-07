@@ -10,7 +10,7 @@ export default function Home() {
         </title>
       </Head>
       <main className={stylesCenter.centered}>
-        <h1>Hello, I'm Gerry William</h1>
+        <h1>Hello, Im Gerry William</h1>
         <p>Welcome to my Web Portfolio</p>
       </main>
     </>
